@@ -1,13 +1,13 @@
-# 🌊 AI Flood Prediction System
+ AI Flood Prediction System
 
 This is an AI-based flood prediction system built with Python and Streamlit.
 
-## 🔧 Features
+ Features
 - Trains a model using weather data
 - Predicts flood risk based on new inputs
 - Simple Streamlit-based UI
 
-## 🚀 Run the Project
+ Run the Project
 
 ### 1. Install requirements
 ```bash
@@ -25,7 +25,7 @@ python train_model.py
 streamlit run app.py
 ```
 
-## 📁 Project Structure
+# Project Structure
 - `data/`: CSV weather dataset
 - `models/`: Trained ML model
 - `src/`: Training & prediction logic
